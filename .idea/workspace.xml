@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/profile.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/draft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/guide/cover.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/boj_14502/cover.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/guide/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/markdown-extended.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/video.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/spec/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/spec/about.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hfRbAv5uy2wXibsUmioqelWyNq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/content/posts/boj_14502" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Blog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Blog" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-3183f394aec4-74f1fbcb" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="" />
+      <created>1717983213850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717983213850</updated>
+      <workItem from="1717983214872" duration="4168000" />
+      <workItem from="1718000185932" duration="667000" />
+      <workItem from="1718003501720" duration="8000" />
+      <workItem from="1718003576890" duration="70000" />
+      <workItem from="1718031121833" duration="142000" />
+      <workItem from="1718031270819" duration="110000" />
+      <workItem from="1718031386452" duration="5118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
