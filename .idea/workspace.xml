@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/profile.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/draft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/guide/cover.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/boj_14502/cover.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/guide/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/markdown-extended.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/video.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/spec/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/spec/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/icon.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/icon.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/assets/images",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/public/favicon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/favicon" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
       <recent name="$PROJECT_DIR$/src/content/posts/boj_14502" />
     </key>
@@ -94,6 +88,7 @@
       <workItem from="1718031121833" duration="142000" />
       <workItem from="1718031270819" duration="110000" />
       <workItem from="1718031386452" duration="5118000" />
+      <workItem from="1718066637005" duration="1317000" />
     </task>
     <servers />
   </component>
