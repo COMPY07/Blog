@@ -1,10 +1,10 @@
 ---
 title: 14502 lab
-published: 2023-09-09
+published: 2024-04-10
 description: 14502 bfs, bruteforce 풀이
 image: cover.jpeg
 tags: [ps, algorithm, boj]
-category: ps
+category: CS
 draft: false
 ---
 
