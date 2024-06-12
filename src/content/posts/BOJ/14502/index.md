@@ -1,5 +1,5 @@
 ---
-title: 14502 lab
+title: "[BOJ] 연구소"
 published: 2024-04-10
 description: 14502 bfs, bruteforce 풀이
 image: cover.png
@@ -8,7 +8,7 @@ category: CS
 draft: false
 ---
 
-**https://www.acmicpc.net/problem/14502﻿**
+** https://www.acmicpc.net/problem/14502 **
 
 |  TimeLimit  |  MemoryLimit  |  Condition   |               TAG                |
 |:-----------:|:-------------:|:------------:|:--------------------------------:|

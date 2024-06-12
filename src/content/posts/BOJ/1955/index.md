@@ -1,6 +1,6 @@
 ---
 title: "[BOJ] 수식 표현"
-published: 2024-06-11
+published: 2024-06-12
 description: dynamic programming을 이용한 문제 풀이
 image: cover.png
 tags: [ps, algorithm, boj]
