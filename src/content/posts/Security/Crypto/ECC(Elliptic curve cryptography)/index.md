@@ -5,7 +5,7 @@ description: 14502 bfs, bruteforce 풀이
 image: ""
 tags: [hacking, algorithm, ps, crypto]
 category: security
-draft: false
+draft: true
 ---
 
 이 포스트를 읽기 전 어휘에 대해서 먼저 알고가자

@@ -5,7 +5,7 @@ description: 8112 math (N % M) % M = N % M 을 이용하기
 image: ""
 tags: [ps, algorithm, boj]
 category: CS
-draft: false
+draft: true
 ---
 
 # [0과 1 - 2](https://www.acmicpc.net/problem/8112)

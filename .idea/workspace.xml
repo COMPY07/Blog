@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/public_key_.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/8112/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/8112/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +104,7 @@
       <workItem from="1718636879792" duration="1814000" />
       <workItem from="1718676195623" duration="1294000" />
       <workItem from="1718698466684" duration="8778000" />
-      <workItem from="1718763858411" duration="5780000" />
+      <workItem from="1718763858411" duration="14402000" />
     </task>
     <servers />
   </component>
