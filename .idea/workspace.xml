@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/Development/Project/Bridled/Introduce",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,11 +46,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce" />
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory" />
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Web" />
       <recent name="$PROJECT_DIR$/src/content/posts/BOJ/1955" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Singleton" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF" />
@@ -104,7 +106,7 @@
       <workItem from="1718698466684" duration="8778000" />
       <workItem from="1718763858411" duration="14549000" />
       <workItem from="1718851427342" duration="2010000" />
-      <workItem from="1718948714199" duration="10825000" />
+      <workItem from="1718948714199" duration="12297000" />
     </task>
     <servers />
   </component>
