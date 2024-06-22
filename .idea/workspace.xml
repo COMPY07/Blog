@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/Elliptic-curve_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/Elliptic-curve_example.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF/RSA_do_the_math/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/spec/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/spec/about.md" afterDir="false" />
-    </list>
+    <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +102,7 @@
       <workItem from="1718698466684" duration="8778000" />
       <workItem from="1718763858411" duration="14549000" />
       <workItem from="1718851427342" duration="2010000" />
-      <workItem from="1718948714199" duration="5894000" />
+      <workItem from="1718948714199" duration="5974000" />
     </task>
     <servers />
   </component>
