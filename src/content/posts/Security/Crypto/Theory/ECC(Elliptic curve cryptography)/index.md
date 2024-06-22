@@ -3,7 +3,7 @@ title: "[Crypto] ECC(Elliptic Curve Cryptography)"
 published: 2024-06-17
 description: 14502 bfs, bruteforce 풀이
 image: ""
-tags: [hacking, algorithm, crypto]
+tags: [algorithm, crypto]
 category: Security
 draft: true
 ---

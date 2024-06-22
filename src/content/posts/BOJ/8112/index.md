@@ -3,7 +3,7 @@ title: "[BOJ] 0과 1 - 2"
 published: 2024-06-18
 description: 8112 math (N % M) % M = N % M 을 이용하기
 image: ""
-tags: [ps, algorithm, boj]
+tags: [ps, algorithm]
 category: CS
 draft: true
 ---

@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="" />
+    <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce/bg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce/logo_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/GoStudy/syntax/second/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/14502/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/14502/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/1955/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1955/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/8112/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/8112/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF/RSA_do_the_math/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF/RSA_do_the_math/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/Security/Crypto/Theory",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/Development/Project/Bridled/Introduce",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,11 +57,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce" />
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory" />
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Web" />
       <recent name="$PROJECT_DIR$/src/content/posts/BOJ/1955" />
       <recent name="$PROJECT_DIR$/src/content/posts/Singleton" />
-      <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF" />
@@ -102,7 +117,7 @@
       <workItem from="1718698466684" duration="8778000" />
       <workItem from="1718763858411" duration="14549000" />
       <workItem from="1718851427342" duration="2010000" />
-      <workItem from="1718948714199" duration="5974000" />
+      <workItem from="1718948714199" duration="7610000" />
     </task>
     <servers />
   </component>

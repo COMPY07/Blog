@@ -3,7 +3,7 @@ title: "[Go] Go언어 공부 시작해보기"
 published: 2024-06-20
 description: GO Language의 강력함을 느껴보자
 image: ""
-tags: [go, go_syntax]
+tags: []
 category: Language
 draft: false
 ---

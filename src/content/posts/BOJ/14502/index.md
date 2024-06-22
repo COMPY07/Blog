@@ -3,7 +3,7 @@ title: "[BOJ] 연구소"
 published: 2024-04-10
 description: 14502 bfs, bruteforce 풀이
 image: cover.png
-tags: [ps, algorithm, boj]
+tags: [ps, algorithm]
 category: CS
 draft: false
 ---

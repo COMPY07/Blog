@@ -3,7 +3,7 @@ title: "[Crypto] 키(Key)?"
 published: 2024-06-18
 description: "Cryptography(암호학)에서 필요한 어휘를 정리해드립니다.Public Key, Private Key와 사용 예시에 대해서 배웁니다."
 image: ""
-tags: [hacking, algorithm, crypto]
+tags: [algorithm, crypto]
 category: Security
 draft: false
 
