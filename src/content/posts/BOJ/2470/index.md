@@ -1,5 +1,5 @@
 ---
-title: "[BOJ] 0과 1 - 2"
+title: "[BOJ] 두 용액"
 published: 2024-06-22
 description: 2470 two pointer 해설
 image: ""
