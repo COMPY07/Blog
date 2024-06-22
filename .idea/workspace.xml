@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Reversing/UnrealEngine/SDKGenerator/Start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/cover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Web/EmtpyExcution/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Web/EmtpyExcution/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Singleton/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/cover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Singleton/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/GoStudy/first/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/Elliptic-curve_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/Elliptic-curve_example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/RSA_do_the_math/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF/RSA_do_the_math/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/spec/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/spec/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,31 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/compy/Documents/blog/Blog/src/content/posts/Security/Web&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/Security/Crypto/Theory",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory" />
       <recent name="$PROJECT_DIR$/src/content/posts/Security/Web" />
       <recent name="$PROJECT_DIR$/src/content/posts/BOJ/1955" />
       <recent name="$PROJECT_DIR$/src/content/posts/Singleton" />
       <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern" />
-      <recent name="$PROJECT_DIR$/public/favicon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF" />
       <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern" />
       <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern" />
       <recent name="$PROJECT_DIR$/src/content/posts/GoStudy/first" />
@@ -113,7 +110,7 @@
       <workItem from="1718698466684" duration="8778000" />
       <workItem from="1718763858411" duration="14549000" />
       <workItem from="1718851427342" duration="2010000" />
-      <workItem from="1718948714199" duration="5244000" />
+      <workItem from="1718948714199" duration="5894000" />
     </task>
     <servers />
   </component>
