@@ -4,7 +4,7 @@ published: 2024-06-17
 description: RSA와 crypto 간단한 문제 풀이
 image: ""
 tags: [hacking, algorithm, crypto]
-category: security
+category: Security
 draft: true
 ---
 
@@ -28,9 +28,6 @@ draft: true
 유형 자체는 역산 느낌이 강한 친구입니다.
 
 일단 이 문제를 풀기 위해서는 암호학에서 굉장히 유명한 친구 "RSA"라는 친구를 알아야합니다.
-
-
-
 
 ## **RSA**란?
 

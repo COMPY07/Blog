@@ -4,7 +4,7 @@ published: 2024-06-12
 description: web hacking problem on ctf
 image: ""
 tags: [hacking]
-category: security
+category: Security
 draft: false
 ---
 
