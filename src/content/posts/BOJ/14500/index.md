@@ -1,6 +1,6 @@
 ---
 title: "[BOJ] 테트로미노"
-published: 2024-06-12
+published: 2024-06-23
 description: bruteforce로 14500 풀어보기
 image: ""
 tags: [ps, algorithm]
