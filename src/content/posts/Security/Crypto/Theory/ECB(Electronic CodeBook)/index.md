@@ -19,7 +19,7 @@ Cᵢ = E(K, Pᵢ)       <br> i = 1, ..., k
 
 ECB가 메시지의 블록들을 각기 암호화하는 방식은 정말 간단하다.
 
-[![img.png](img.png)](http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation)
+[![img](process.png)](http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation)
 :::note[]
 - 가장 단순한 모드로 블록단위로 순차적으로 암호화 하는 구조이다.
 - 한개의 블록만 해독되면 나머지 블록도 해독이 되는 단점이 있다. (Brute-Force Arttack, Dictionary Attack)
