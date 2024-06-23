@@ -1,7 +1,7 @@
 ---
 title: "[Crypto] ECB(Electronic CodeBook)"
 published: 2024-06-23
-description: 14502 bfs, bruteforce 풀이
+description: ECB 암호화 구조
 image: ""
 tags: [algorithm, crypto]
 category: Security
