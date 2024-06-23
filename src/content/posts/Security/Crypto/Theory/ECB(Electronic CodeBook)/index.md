@@ -5,7 +5,7 @@ description: 14502 bfs, bruteforce 풀이
 image: ""
 tags: [algorithm, crypto]
 category: Security
-draft: true
+draft: false
 ---
 
 ## ECB란?
