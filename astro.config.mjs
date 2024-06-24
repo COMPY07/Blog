@@ -57,7 +57,11 @@ export default defineConfig({
       Image: false,
     }),
     svelte(),
-    sitemap(),
+    sitemap(
+        {
+
+        }
+    ),
   ],
   markdown: {
     remarkPlugins: [remarkMath, remarkReadingTime, remarkDirective, parseDirectiveNode],

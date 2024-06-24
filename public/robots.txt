@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://compy07.github.io/Blog/sitemap-index.xml
