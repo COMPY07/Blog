@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1565/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/BasicInfomation/Key_public_private/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECB(Electronic CodeBook)/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECB(Electronic CodeBook)/process.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECB(Electronic CodeBook)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECB(Electronic CodeBook)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google98b2ff2ef2dc1f7a.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,8 @@
       <workItem from="1719139403891" duration="3050000" />
       <workItem from="1719142809651" duration="179000" />
       <workItem from="1719151421631" duration="2374000" />
-      <workItem from="1719185247350" duration="223000" />
+      <workItem from="1719185247350" duration="2332000" />
+      <workItem from="1719195027053" duration="3285000" />
     </task>
     <servers />
   </component>
