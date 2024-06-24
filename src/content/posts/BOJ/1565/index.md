@@ -5,7 +5,7 @@ description: 유클리드 호제법을 이용한 1565 풀이
 image: ""
 tags: [algorithm, ps]
 category: CS
-draft: true
+draft: false
 ---
 
 ## [수학](https://www.acmicpc.net/problem/1565)

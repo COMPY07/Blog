@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1565/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/DNN/introduce/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/Introduce/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/MachineLearning/introduce/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google98b2ff2ef2dc1f7a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/1565/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1565/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +114,8 @@
       <workItem from="1719142809651" duration="179000" />
       <workItem from="1719151421631" duration="2374000" />
       <workItem from="1719185247350" duration="2332000" />
-      <workItem from="1719195027053" duration="3285000" />
+      <workItem from="1719195027053" duration="4795000" />
+      <workItem from="1719218530521" duration="3355000" />
     </task>
     <servers />
   </component>
