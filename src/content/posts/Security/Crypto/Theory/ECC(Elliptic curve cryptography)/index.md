@@ -10,7 +10,8 @@ draft: true
 
 이 포스트를 읽기 전 어휘에 대해서 먼저 알고가자
 
-<details><summary>단어 정리</summary>
+<details>
+<summary>단어 정리</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 * [타원곡선(Elliptic curve)](http://kowon.dongseo.ac.kr/~lbg/web_lecture/it/lec5/lec5.htm)

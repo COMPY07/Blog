@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/2024_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/fes_notion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/boj_scoreboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Layout.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Layout.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/AI/DNN/introduce/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/DNN/introduce/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,36 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/compy/Documents/blog/Blog&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/SchoolClub/SHARC(Sunrin_High_school_AlGorithm_Club)/Course/NubmerTheory" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Development/Project/Bridled/Introduce" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Security/Web" />
-      <recent name="$PROJECT_DIR$/src/content/posts/BOJ/1955" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
       <recent name="$PROJECT_DIR$/src/content/posts/BOJ/14500" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF" />
-      <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern" />
-      <recent name="$PROJECT_DIR$/src/content/posts/DesignPattern" />
-      <recent name="$PROJECT_DIR$/src/content/posts/GoStudy/first" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,7 +124,11 @@
       <workItem from="1719151421631" duration="2374000" />
       <workItem from="1719185247350" duration="2332000" />
       <workItem from="1719195027053" duration="4795000" />
-      <workItem from="1719218530521" duration="5678000" />
+      <workItem from="1719218530521" duration="6679000" />
+      <workItem from="1719272343045" duration="1396000" />
+      <workItem from="1719284762487" duration="79000" />
+      <workItem from="1719285062040" duration="7199000" />
+      <workItem from="1719304982819" duration="7548000" />
     </task>
     <servers />
   </component>
