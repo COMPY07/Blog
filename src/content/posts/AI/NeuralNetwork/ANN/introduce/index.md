@@ -1,6 +1,6 @@
 ---
 title: "[AI] 인공신경망 ANN(Artificial Neural Network)"
-published: 2024-06-24
+published: 2024-06-26
 description: DNN
 image: ""
 tags: [algorithm]
