@@ -1,7 +1,7 @@
 ---
 title: "[AI] 인공신경망 ANN(Artificial Neural Network)"
 published: 2024-06-26
-description: DNN
+description: 인공신경망(Artificial Neural Network, ANN)에 대해서..
 image: ""
 tags: [algorithm]
 category: AI

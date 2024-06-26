@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/AI/MachineLearning/LinearRegression/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/MachineLearning/LinearRegression/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +117,7 @@
       <workItem from="1719284762487" duration="79000" />
       <workItem from="1719285062040" duration="7199000" />
       <workItem from="1719304982819" duration="12020000" />
-      <workItem from="1719410963636" duration="4769000" />
+      <workItem from="1719410963636" duration="4987000" />
     </task>
     <servers />
   </component>
