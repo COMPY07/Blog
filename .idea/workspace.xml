@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/MachineLearning/LinearRegression/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/img/exp_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/img/shallow_exp.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/img/shallow_layer.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/compy/Documents/blog/Blog",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/AI/NeuralNetwork/ANN/introduce/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,11 +50,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/SchoolClub/SHARC(Sunrin_High_school_AlGorithm_Club)/Course/NubmerTheory" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork" />
@@ -117,7 +121,8 @@
       <workItem from="1719272343045" duration="1396000" />
       <workItem from="1719284762487" duration="79000" />
       <workItem from="1719285062040" duration="7199000" />
-      <workItem from="1719304982819" duration="8337000" />
+      <workItem from="1719304982819" duration="12020000" />
+      <workItem from="1719410963636" duration="4397000" />
     </task>
     <servers />
   </component>
