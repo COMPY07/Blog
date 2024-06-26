@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/2024_poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/fes_notion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/boj_scoreboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary/NubmerTheory/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/AI/DNN/introduce/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/DNN/introduce/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECC(Elliptic curve cryptography)/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/Theory/ECDSA(Elliptic Curve Digital Signature Algorithm)/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/1441/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +117,7 @@
       <workItem from="1719272343045" duration="1396000" />
       <workItem from="1719284762487" duration="79000" />
       <workItem from="1719285062040" duration="7199000" />
-      <workItem from="1719304982819" duration="7548000" />
+      <workItem from="1719304982819" duration="8337000" />
     </task>
     <servers />
   </component>
