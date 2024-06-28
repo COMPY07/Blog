@@ -3,7 +3,7 @@ title: "[Syntax] Go로 OOP 따라하기"
 published: 2024-06-28
 description: GO Language의 강력함을 느껴보자
 image: ""
-tags: []
+tags: [Go]
 category: Language
 draft: false
 ---
