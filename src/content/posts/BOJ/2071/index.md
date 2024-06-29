@@ -8,4 +8,4 @@ category: CS
 draft: true
 ---
 
-옥찬호님의 풀이를 기다리는 중...
+풀이 작성중
