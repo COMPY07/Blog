@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/31997/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/describe/implement/first/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/describe/implement/first/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
