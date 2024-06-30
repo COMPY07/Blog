@@ -11,6 +11,10 @@ draft: false
 [A Plus Equals B](https://www.acmicpc.net/problem/17167)
 
 
+| TimeLimit | MemoryLimit |           Condition            |   TAG    |
+|:---------:|:-----------:|:------------------------------:|:--------:|
+|    1s     |   1024MB    | (1<=A, B<=10¹⁸, 0<= n <= 5000) | Math(수학) |
+
 
 일단 문제가 영어러 되어있기 때문에 제가 이해한 문장을 적겠습니다.(원문을 보시고 싶다면, 위의 링크를 클릭해 문제를 풀고 오십숑)
 
