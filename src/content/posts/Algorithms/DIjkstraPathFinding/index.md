@@ -1,11 +1,11 @@
 ---
-title: "[BOJ] 바둑"
+title: "[Algorithm] 다익스트라 알고리즘"
 published: 2024-07-03
 description: Dijkstra algorithm with python
 image: ""
-tags: [algorithm, ps]
+tags: [algorithm]
 category: CS
-draft: true
+draft: false
 ---
 
 :::note[주의]
@@ -132,7 +132,7 @@ def solution(start_node, target_node):
 
 제가 다익스트라를 조금 시각적으로 볼 수 있도록 파이게임을 이용해서 시각화를 하였습니다.
 
-![find](find_path.gif)
+![find](https://github.com/COMPY07/Blog/blob/main/src/content/posts/Algorithms/DIjkstraPathFinding/find_path.gif)
 
 <br>
 
