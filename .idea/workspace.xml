@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/find_path.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -137,7 +137,12 @@ def solution(start_node, target_node):
 
 [//]: # (<video src=./find_path.mp4 controls>)
 
-![find](./find_path.gif)
+[//]: # (![find]&#40;./find_path.gif&#41;)
+
+[//]: # ([![find]&#40;&#41;]&#40;https://github.com/COMPY07/Blog/tree/main/src/content/posts/Algorithms/DIjkstraPathFinding/find_path.mp4&#41;)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3EHrev7RLGc?si=lSfNxgvhRVintCyG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 
