@@ -132,8 +132,12 @@ def solution(start_node, target_node):
 
 제가 다익스트라를 조금 시각적으로 볼 수 있도록 파이게임을 이용해서 시각화를 하였습니다.
 
-![find](./find_path.gif)
+[//]: # (![find]&#40;./find_path.gif&#41;)
+[//]: # (<video loop autoplay src="./find_path.mp4">)
 
+[//]: # (<video src=./find_path.mp4 controls>)
+
+![find](./find_path.gif)
 <br>
 
 
