@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/PaperReview/BotScreen: Trust Everybody, but Cut the Aimbots Yourself/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/find_path.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/spec/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/spec/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +75,11 @@
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding" />
       <recent name="$PROJECT_DIR$/code" />
       <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
     </key>
   </component>
   <component name="RunManager">
