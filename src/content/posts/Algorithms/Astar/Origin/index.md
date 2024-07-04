@@ -5,7 +5,7 @@ description: A* algorithm with python
 image: ""
 tags: [algorithm]
 category: CS
-draft: false
+draft: true
 ---
 
 길을 찾는 것을 최적화 하기 위해서... 
