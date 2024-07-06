@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img/Astar_visual.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img/calc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img/dijkstra.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img/dijkstra_all.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/Origin/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/Origin/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/Origin/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,44 +43,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/compy/Documents/blog/Blog/src/content/posts/BOJ/1600&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/compy/Documents/blog/Blog/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/compy/Documents/blog/Blog/src/content/posts/Algorithms/Astar/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "go",
+    "ts.external.directory.path": "/Users/compy/Documents/blog/Blog/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/BOJ/1600" />
       <recent name="$PROJECT_DIR$/src/content/posts/GoStudy/syntax/OOPDefine/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork/ANN/introduce/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/SchoolClub/SHARC(Sunrin_High_school_AlGorithm_Club)/Course/NubmerTheory" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img" />
+      <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding" />
       <recent name="$PROJECT_DIR$/code" />
       <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Life/SHARC_Diary" />
-      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/img_src" />
     </key>
   </component>
   <component name="RunManager">
