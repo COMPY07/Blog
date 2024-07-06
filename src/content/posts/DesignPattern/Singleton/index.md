@@ -2,7 +2,7 @@
 title: "[DesignPattern] 싱글톤(Singleton)"
 published: 2024-06-10
 description: 디자인 패턴에서 꽤 많이 쓰이는 싱글톤을 소개합니다!!
-image: cover.png
+image: ""
 tags: [DesignPattern]
 category: CS
 draft: false

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/6549/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/6549/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/9663/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

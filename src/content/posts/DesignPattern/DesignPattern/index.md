@@ -2,7 +2,7 @@
 title: "한번쯤 들어봤을 그 이름... 디자인패턴(DesignPattern)"
 published: 2024-06-10
 description: 디자인 패턴(DesignPattern)이란?
-image: cover.png
+image: ""
 tags: [DesignPattern]
 category: CS
 draft: false
