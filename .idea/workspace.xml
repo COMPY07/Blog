@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/Heuristic/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Algorithms/JPS(Jump Point Search)/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/6549/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/Security/Crypto/CTF/ECDSA_Problem/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/BOJ/6549/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/BOJ/6549/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
