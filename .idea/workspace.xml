@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/content/posts/BOJ/9663/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/img/before_start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/img/food.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/img/panel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/DesignPattern/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/DesignPattern/Singleton/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/First/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +76,11 @@
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/SchoolClub/SHARC(Sunrin_High_school_AlGorithm_Club)/Course/NubmerTheory" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding" />
       <recent name="$PROJECT_DIR$/code" />
-      <recent name="$PROJECT_DIR$/src/content/posts/AI/NeuralNetwork" />
     </key>
   </component>
   <component name="RunManager">

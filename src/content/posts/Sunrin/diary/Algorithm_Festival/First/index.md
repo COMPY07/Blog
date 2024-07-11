@@ -1,11 +1,11 @@
 ---
 title: "[천코대(Sunrin Algorithm Festival)] 천코대 운영을 하면서..."
-published: 2024-06-25
+published: 2024-07-10
 description: ""
 image: ""
 tags: [algorithm]
 category: SunrinLife
-draft: true
+draft: false
 ---
 
 나는 2024년 천코대 2학년 총괄 운영진을 맡게 되었다.
@@ -32,9 +32,4 @@ draft: true
 
 일정에 맞춰서 특별상, 운영에 관한 일정, 각자 역할, 예산 사용 등등을 모두 논의하고
 대회 들어가기로 하였다. 이제부터가 시작이다.
-
-------------
-
-대회 당일
-------------
 
