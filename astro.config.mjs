@@ -33,9 +33,9 @@ export default defineConfig({
   site: "https://COMPY07.github.io/",
   base: "Blog/",
   trailingSlash: "always",
-  image: {
-    service: sharpImageService({ limitInputPixels: false }),
-  },
+  // image: {
+  //   service: sharpImageService({ limitInputPixels: false }),
+  // },
   integrations: [
     tailwind(),
     swup({
