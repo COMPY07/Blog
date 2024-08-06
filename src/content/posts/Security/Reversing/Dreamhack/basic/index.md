@@ -130,3 +130,17 @@ for i in range(0x1f):
 
 # ROL1 는 LCIRC랑 똑같다고 생각하심 됩니다.
 ```
+## basic rev 8
+
+이건 그냥 풀면 되요
+
+```py
+answer = list(map(lambda x : int(x, 16), """AC F3 0C 25 A3 10 B7 25  16 C6 B7 BC 07 25 02 D5
+C6 11 07 C5 00 00 00 00  00 00 00 00 00 00 00 00""".split()))
+
+for i in range(0x15):
+    for j in range(0xFF):
+        if ((-5*j) % (0xFF+1)) == answer[i]:
+            print(chr(j),end="")
+            break
+```

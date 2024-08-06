@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7f973e-2f09-4348-95ce-ebe38f02baea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/Security/Reversing/Dreamhack/basic/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/Security/Reversing/Dreamhack/basic/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/compy/Documents/blog/Blog/src/content/posts/Algorithms/Astar/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/compy/Documents/blog/Blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,11 +72,11 @@
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/SchoolClub/SHARC(Sunrin_High_school_AlGorithm_Club)/Course/NubmerTheory" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/posts" />
       <recent name="$PROJECT_DIR$/src/content/posts/Sunrin/diary/Algorithm_Festival/Last/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar/img" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/Astar" />
       <recent name="$PROJECT_DIR$/src/content/posts/Algorithms/DIjkstraPathFinding" />
-      <recent name="$PROJECT_DIR$/code" />
     </key>
   </component>
   <component name="RunManager">
